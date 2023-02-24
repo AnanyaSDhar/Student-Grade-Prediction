@@ -9,7 +9,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AnanyaSDhar/Student-Grade-Prediction?logoColor=important&style=flat-square)
 
 [![GitHub issues](https://img.shields.io/github/issues/AnanyaSDhar/Student-Grade-Prediction?style=flat-square)](https://github.com/AnanyaSDhar/Student-Grade-Prediction/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/AnanyaSDhar/Student-Grade-Prediction?style=flat-square)](https://github.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/AnanyaSDhar/Student-Grade-Prediction?style=flat-square)](https://github.com/AnanyaSDhar/Student-Grade-Prediction/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/AnanyaSDhar/Student-Grade-Prediction?logoColor=yellow&style=flat-square)](https://github.com/AnanyaSDhar/Student-Grade-Prediction/pulls?q=is%3Aopen+is%3Apr)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AnanyaSDhar/Student-Grade-Prediction?logoColor=yellow&style=flat-square)](https://github.com/AnanyaSDhar/Student-Grade-Prediction/pulls?q=is%3Apr+is%3Aclosed)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/AnanyaSDhar/Student-Grade-Prediction/blob/master/LICENSE)
